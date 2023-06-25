@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kasuka/static/css/main.968bed63.css",
+    "main.js": "/kasuka/static/js/main.1ad134f6.js",
+    "static/js/787.69f8b555.chunk.js": "/kasuka/static/js/787.69f8b555.chunk.js",
+    "static/media/images2.jpg": "/kasuka/static/media/images2.20483316333ff35a57c8.jpg",
+    "index.html": "/kasuka/index.html",
+    "main.968bed63.css.map": "/kasuka/static/css/main.968bed63.css.map",
+    "main.1ad134f6.js.map": "/kasuka/static/js/main.1ad134f6.js.map",
+    "787.69f8b555.chunk.js.map": "/kasuka/static/js/787.69f8b555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968bed63.css",
+    "static/js/main.1ad134f6.js"
+  ]
+}
