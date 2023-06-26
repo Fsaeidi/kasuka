@@ -1,0 +1,137 @@
+.section{
+    background-color: black;
+    height: max-content;
+ 
+}
+.nav{
+    display: flex;
+    max-width: 100%;
+    position: fixed;
+    height: 70px;
+    margin: 0;
+    padding: 5px;
+   background-color: black;
+   width: 100%;
+    top: 0;
+    opacity: 80%;
+    text-align: center;
+ 
+    
+}
+
+.list ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    direction:rtl;
+    margin: 0;
+    text-align: center;
+   padding: auto;
+   margin-left: 100px;
+    
+}
+
+.logo{
+    display: flex;
+    color: aliceblue;
+    margin: 8px 100px;
+   
+
+    
+    
+    
+}
+.logo img{
+    margin-right: 100px;
+    margin-left: 7px;
+        margin-top: 12px;
+}
+a{
+text-decoration: none;
+color: aliceblue;
+white-space: nowrap;
+
+
+
+}
+img{
+    
+    width: 3rem;
+    height: 3rem;
+   
+    
+}
+ h1{
+   
+    
+}
+.ulList{
+    flex-direction: row;
+   align-content: center;
+    padding-left: 1px;
+  font-size: calc(15px) bold;
+  transition: .3s;
+  margin-left: 2px;
+  
+
+ 
+
+}
+.ulList> li{
+  padding:30px ;
+ 
+ 
+   
+}
+.btn {
+    margin-left: 50px;
+    
+   
+}
+.btn button {
+    margin-top: 15px;
+    width: 70px;
+    height:40px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: black;
+    border:2px solid rgb(188, 188, 20);
+    border-radius: 6px;
+}
+button:hover{
+    background:rgb(188, 188, 20);
+    color: black;
+}
+li> a:hover{
+ color: rgb(188, 188, 20);;
+}
+ .header{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+     
+}
+h2{
+    font-size: 20px;
+}
+
+.box{
+    display: flex;
+    margin:100px 200px;
+    color: #ffffff;
+    justify-content: space-evenly;
+    
+   
+}
+.boxD{
+   padding: 10px 70px;
+    border: rgb(232, 232, 208) 0.5px solid;
+    align-items: center;
+    text-align: center;
+    margin-left:1px ;
+    width: 100px;
+    margin-bottom: 30px;
+    
+
+    
+}

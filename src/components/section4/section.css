@@ -1,0 +1,31 @@
+.ime img{
+  width: 60%;
+  height: 400px;
+  padding-right: 180px;
+}
+.tagi{
+    width: 70px;
+}
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+div .background  {
+ margin-left: 20px;
+  width: 100% !important;
+  height: 300px; background-repeat: 'no-repeat'
+}
+.mainParent{
+
+  width: 600px;
+ 
+}
+ .avator{
+  margin-left: 700px;
+  margin-top: 40px;
+  
+  
+}
+.stack{
+  margin-top: 30px;
+}

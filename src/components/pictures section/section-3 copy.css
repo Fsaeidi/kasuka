@@ -1,0 +1,33 @@
+.i{
+display: flex;
+
+margin: 8px 200px;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 20px;
+}
+.pic1 img{
+    width: 300px;
+    height: 340px;
+}
+.pic3 img{
+ width: 300px;
+ height: 200px;
+ 
+}
+.pic4 img{
+    width: 300px;
+    height: 200px;
+   }
+   .pic5 img{
+    width: 300px;
+    height:400px
+   }
+   .pic{
+    grid-template-columns: 2fr 1fr 1fr;
+   }
+   .row{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
+   }

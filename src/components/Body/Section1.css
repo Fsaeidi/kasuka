@@ -1,0 +1,55 @@
+.main{
+    columns: 2;
+    background-color: white;
+    display: block;
+    direction:rtl;
+    max-width: 100%;
+    overflow-x: hidden;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: 15px;
+
+}
+.img{
+    max-width: 400px;
+    
+}
+.img img{
+    width: 700px;  
+    height: max-content;
+    text-align: justify;
+   align-items: center;
+   padding-right: 40px;
+}
+.part{
+    padding-right: 3rem;
+    
+}
+
+
+.part p{   
+   justify-content: right;
+    
+     display: block;
+     flex-flow: nowrap;
+
+    }
+   
+.style-p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 5px;
+}
+.part ul{
+  text-decoration-line: inherit;
+  text-decoration-color: brown;
+  text-align: right;
+    
+}
+li i{
+    margin-right: 2rem;
+    font-size: 13px;
+}
+ul li:before{
+    color: rgb(213, 200, 55);
+}

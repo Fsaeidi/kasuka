@@ -1,0 +1,13 @@
+.footer{
+    background: black;
+   height: max-content;
+   color: white;
+   
+}
+.logofooter img{
+    margin-right: 40px;
+    margin-left: 7px;
+        margin-top: 2px;
+        padding-top: 0;
+
+}
